@@ -42,12 +42,12 @@ body {
     color: #FBFBFB;
  }
 
-a {
+link {
     text-decoration: none;
     color: black;
 }
 
-a:hover{
+link:hover{
     color: #D7AB6E;
     font-weight: 900;
 }
