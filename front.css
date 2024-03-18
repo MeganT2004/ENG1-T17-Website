@@ -2,11 +2,11 @@ body {
   --color-A: #D7AB6E;
   --color-B: #BF8B50;
   --color-C: #DDB277; /*base colours */
-  --color-D: #FBFBFB;
+  --color-D: #FFFFFF;
   --color-error: red;
   --border-radius: 4px;
 
-  background-image: linear-gradient(#BF8B50, #FBFBFB);
+  background-image: linear-gradient(#BF8B50, #FFFFFF);
   background-size: 100% 100%;
   background-repeat: no-repeat;
   font: 500 1rem 'Inter', sans-serif;
